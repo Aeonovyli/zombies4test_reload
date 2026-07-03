@@ -1,7 +1,7 @@
 
 ![Zombies4test](https://raw.githubusercontent.com/duckpixeloficial/zombies4test_reload/refs/heads/main/zombies4test.jpg)
 
-<br><br>
+<br>
 
 <a href="https://content.luanti.org/packages/pixelzone/zombies4test/">
  <img alt="Static Badge" src="https://img.shields.io/badge/ContentDB-yellow?style=flat-square&labelColor=blue">
