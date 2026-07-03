@@ -1,6 +1,13 @@
 
 ![Zombies4test](https://raw.githubusercontent.com/duckpixeloficial/zombies4test_reload/refs/heads/main/zombies4test.jpg)
 
+<br><br>
+
+<a href="https://content.luanti.org/packages/pixelzone/zombies4test/">
+ <img alt="Static Badge" src="https://img.shields.io/badge/ContentDB-yellow?style=flat-square&labelColor=blue">
+</a>
+
+
 ##### Zombies4Test Reload" is a rework of the Zombies4Test modpack,
 
 ##### which adds zombies, items,tools, structures, and a new challenge to your world...
